@@ -1,4 +1,4 @@
-# digital-review-form
+# Digital Review Form Wordpress Plugin
 Plugin For review form with showing data in admin
 *For using this plugin.Please use shortcode [left_review_form]
 *And if you are using shortcode from template just copy and paste this <?php echo do_shortcode('[left_review_form]'); ?>
